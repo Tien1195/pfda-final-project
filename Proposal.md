@@ -1,7 +1,7 @@
 #  Puppy Snack Catcher
 
 ## Repository
-<https://github.com/Tien1195/pfda-final-project>
+<https://github.com/Tien1195/pfda-final-project-puppy-snack-catcher>
 
 ## Description
 Puppy Snack Catcher is a simple 2D game made with Python and Pygame where the player controls a puppy that must catch falling snacks while avoiding missing too many. This project relates to digital media and interactive arts by using animation, and user interaction to create an engaging visual experience.
